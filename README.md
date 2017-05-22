@@ -1,3 +1,6 @@
-# My Awesome Book
+# CUAV XTEND RADIO超视距数据传输模块
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+概述
+
+CUAV XTEND Radio是一款高功率、高速率、高接收灵敏度数传模块
+
