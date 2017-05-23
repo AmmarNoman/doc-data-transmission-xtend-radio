@@ -2,5 +2,5 @@
 
 * [概述](README.md)
 * [连接使用](chapter1.md)
-* [软件配置](soft.md)
+* [软件和驱动](soft.md)
 
