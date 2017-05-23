@@ -2,7 +2,7 @@
 
 ## 概述
 
-![](/assets/xtend.png)
+![](/assets/xtend2.png)
 
 CUAV XTEND Radio是一款高功率、高速率、高接收灵敏度数传模块
 
