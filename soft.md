@@ -12,5 +12,11 @@
 
 ### 软件下载
 
+新版X-CTU
 
+https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu
+
+新版软件说明文档
+
+https://www.digi.com/resources/documentation/digidocs/90001458-13/default.htm
 
