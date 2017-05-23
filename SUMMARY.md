@@ -1,5 +1,6 @@
 # Summary
 
 * [概述](README.md)
-* [First Chapter](chapter1.md)
+* [连接使用](chapter1.md)
+* [软件配置](soft.md)
 
