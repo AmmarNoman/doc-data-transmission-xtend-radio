@@ -28,9 +28,7 @@ Pixhawk：插入到飞控的telem1或者telem2 接口
 
 如果使用手机OTG连接，可能距离比较短，因为OTG功率都不够的原因
 
-### xtcu调试教程：
+### xtcu调试及相关配置教程：
 
-http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb%20xbee.html
-
-
+[http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html)
 
