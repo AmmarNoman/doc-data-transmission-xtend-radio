@@ -8,7 +8,7 @@ CUAV XTEND Radio内置的USB转TTL芯片为FT232FQ
 
 驱动下载
 
-http://www.ftdichip.com/FTDrivers.htm
+[http://www.ftdichip.com/FTDrivers.htm](http://www.ftdichip.com/FTDrivers.htm)
 
 ### X-CTU软件配置指南书
 
@@ -27,4 +27,8 @@ http://www.ftdichip.com/FTDrivers.htm
 新版软件说明文档
 
 [https://www.digi.com/resources/documentation/digidocs/90001458-13/default.htm](https://www.digi.com/resources/documentation/digidocs/90001458-13/default.htm)
+
+### xtcu调试及相关配置教程：
+
+[http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html)
 
