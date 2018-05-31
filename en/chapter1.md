@@ -1,34 +1,34 @@
-# 硬件连接与使用
+# Hardware connection and use
 
 ---
 
-#### 不分接收端与发射端：
+#### Regardless of receiver and transmitter:
 
-CUAV XTEND Radio模块不分接收端和发射端（不分飞机端和地面），模块上面内置了自动切换芯片
+The CUAV XTEND Radio module does not divide the receiving end from the transmitting end (no matter aircraft and ground), and the module has an automatic switching chip built in.
 
-当USB插入电脑时，数据自动切换到USB端口
+When USB is plugged into the computer, data is automatically switched to the USB port
 
-当USB不存在时，数据切换到6P GH1.25端口
+When USB is not present, data is switched to the 6P GH1.25 port
 
-#### 出厂已配对：
+#### Factory paired:
 
-出厂默认为空速115K，接口速率为57600，点对点广播模式
+The factory default is airspeed 115K, interface rate is 57600, peer-to-peer broadcast mode
 
-如需修改配置，请看软件配置指南，一般只需要修改VID即可达到与其他模块隔离不能通讯的效果，如修改其他配置，请熟悉文档后再谨慎修改。
+If you need to modify the configuration, please refer to the software configuration guide. Generally, you only need to modify the VID to achieve the effect of isolation from communication with other modules. For example, if you modify other configurations, familiarize yourself with the documentation and then modify it carefully.
 
-#### 与飞控连接：
+#### Connection with Flight Control:
 
-PixHack：插入到飞控的radio接口
+PixHack: Radio Interface Plugged into Flight Control
 
-Pixhawk：插入到飞控的telem1或者telem2 接口
+Pixhawk: plug into the flight controller's telem1 or telem2 interface
 
-#### 地面站使用：
+#### Ground Station Use:
 
-理论上PIX的地面站都兼容，连接时请选择57600波特率，注意驱动是否安装正确，端口号是否选对
+In theory, the ground stations of the PIX are compatible. Please select 57600 baud rate when connecting. Note whether the driver is installed correctly and whether the port number is selected.
 
-如果使用手机OTG连接，可能距离比较短，因为OTG功率都不够的原因
+If you use a mobile OTG connection, the distance may be short because OTG power is not enough
 
-### xtcu调试及相关配置教程：
+### xtcu debugging and related configuration tutorial:
 
-[http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html)
+[http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html] (http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee. Html)
 
