@@ -1,34 +1,33 @@
-## 软件配置指南
+## Software Configuration Guide
 
 ---
 
-### FTDI驱动
+### FTDI drive
 
-CUAV XTEND Radio内置的USB转TTL芯片为FT232FQ
+CUAV XTEND Radio's built-in USB to TTL chip is FT232FQ
 
-驱动下载
+Driver download
 
 [http://www.ftdichip.com/FTDrivers.htm](http://www.ftdichip.com/FTDrivers.htm)
 
-### X-CTU软件配置指南书
+### X-CTU Software configuration Guide book
 
 [http://pub.ucpros.com/download/90001003\_A.pdf](http://pub.ucpros.com/download/90001003_A.pdf)
 
-注意不要**选错型号**进行配置，请**先读取**配置，再进行**修改配置**
+Be careful do not to **select the wrong model **to configure, please **read **the configuration first, and then **modify the configuration**
 
-选错型号写错配置会导致变砖！
+Choose the wrong model and writing the wrong configuration will be change it 
+###  Software download
 
-### 软件下载
-
-新版X-CTU
+NEW X-CTU
 
 [https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu](https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu)
 
-新版软件说明文档
+New software documentation
 
 [https://www.digi.com/resources/documentation/digidocs/90001458-13/default.htm](https://www.digi.com/resources/documentation/digidocs/90001458-13/default.htm)
 
-### xtcu调试及相关配置教程：
+### xtcu Debugging and related configuration tutorials:
 
 [http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html)
 
