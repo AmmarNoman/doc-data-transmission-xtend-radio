@@ -1,62 +1,59 @@
-# CUAV XTEND RADIO超视距数据传输模块
+# CUAV XTEND RADIO over sight data transmission module
 
-## 概述
+## Summary
 
 ![](/assets/xtend2.png)
 
-CUAV XTEND Radio是一款高功率、高速率、高接收灵敏度数传模块
+CUAV XTEND Radio is a high-power, high-speed, high-reception sensitivity data transmission module
 
-它内置了美国DIGI公司的XTEND射频模块，发射功率达1000mw，ISM 900MHZ合法频率，支持多种高级的网络选件和拓扑模式
+It has built-in XTEND RF module of USA DIGI Company, launches the power up to 1000mw, ISM 900MHZ legal frequency, supports many advanced network options and topological modes
 
-CUAV XTEND Radio模块为低成本无线数据解决方案提供了空前的作用范围。这款模块简单易用，特别适合无人机组网以及点对点超视距传输，可以在无人机与设备之间提供稳定的关键数据传输。 它们的外形尺寸较小，节省了宝贵的机上空间。
+The CUAV XTEND Radio module offers an unprecedented range of low-cost wireless data solutions. This module is easy to use, especially suitable for unmanned unit networks and point-to-point over-the-horizon transmission, providing stable, critical data transmission between drones and equipment. Their small size saves valuable on-board space.
 
-## 参数
+## Parameter
 
 ---
 
-#### 性能
+#### Function
 
-* 功率输出： 1 mW - 1 W \(0 - 30 dBm\)，软件可选择
-* 室内/市内距离： 最多 3000 ft \(900 m\)
-* 室外/射频视距范围： 最多 40 英里 \(64 km\)视环境
-* 射频数据传输率： 9.6 或 115.2 Kbps
-* 接口数据传输率： 高达 230.4 Kbps
-* 接收器灵敏度： -110 dBm（9600 bps 时）
+* Power output: 1 mW - 1 W \ (0 - 30 dBm\), software selectable
+* Indoor/city distance: up to 3000 ft \ (900 m\)
+* Outdoor/RF range: Up to 40 miles \ (64 km\) depending on the environment
+* RF data rate: 9.6 or 115.2 Kbps
+* Interface data rate: up to 230.4 Kbps
+* Receiver sensitivity: -110 dBm (at 9600 bps)
 
-#### 网络
+#### Network
+* Spread Spectrum Type: FHSS (Frequency Hopping Spread Spectrum)
+* Network Topology: DigiMesh®, End-to-End, Point-to-Point, Point-to-Multipoint and Repeater
+* Error handling: Retry and confirm, multiple transfers
+* Filtering options: VID (vendor ID number), channel and addressing
+* Channel capacity: 10 hop sequences share 50 frequencies
+* Address assignment: 65000 network addresses per channel
+* Encryption: 256-bit AES
 
-* 扩频类型： FHSS（跳频扩频）
-* 网络拓扑： DigiMesh®，端到端，点到点，点到多点和中继器
-* 错误处理： 重试和确认，多重传输
-* 过滤选项： VID（供应商 ID 编号），通道和寻址
-* 通道容量： 10 个跃点序列分享 50 个频率
-* 地址分配： 每个通道提供 65000 个网络地址
-* 加密： 256 位 AES
+#### Power
+* Supply voltage: 2.8 - 5.5 VDC (adjusted)
+* Emission current: 730 mA (1W transmit power output at 5V)
+* Receive current: 80 mA (1W transmit power output at 5V)
+* Power-down current: Generally 5 μA
 
-#### 电源
+#### Overview
+* Frequency bands: 902 - 928 MHz
+* Serial Data Interface: **3V - 5V CMOS UART ** - no configuration required (RS232 is not supported at this time)
 
-* 供电电压： 2.8 - 5.5 VDC（经调整）
-* 发射电流： 730 mA（5V 时，1W 发射功率输出）
-* 接收电流： 80 mA（5V 时，1W 发射功率输出）
-* 掉电电流： 一般是 5 µA
+#### Physical Properties
 
-#### 概况
+* Size: 84\*46\*17 (without antenna)
+* Weight: 73 g (without antenna)
+* Antenna Options: RPSMA
+* Operating temperature: -40° C to 85° C (industrial)
 
-* 频段： 902 - 928 MHz
-* 串行数据接口： **3V - 5V CMOS UART **– 无需配置 （暂不支持RS232）
+#### Certification
 
-#### 物理属性
-
-* 尺寸： 84\*46\*17（不含天线）
-* 重量: 73 g （不含天线）
-* 天线选件： RPSMA 
-* 工作温度： -40° C 到 85° C（工业）
-
-#### 认证
-
-* 美国 \(FCC\)： OUR-9XTEND
-* 加拿大 \(IC\)： 4214A-9XTEND
-* 澳大利亚： Approved \(XTH9\)
+* United States \(FCC\): OUR-9XTEND
+* Canada \(IC\): 4214A-9XTEND
+* Australia: Approved \(XTH9\)
 
 
 
