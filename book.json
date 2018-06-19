@@ -3,6 +3,8 @@
   "description": "XTEND Radio 超视距数据传输模块",
   "language": "zh-hans",
   "plugins": [
+   "language-picker",
+    "richquotes",
     "-sharing",
     "-highlight",
     "-livereload",
