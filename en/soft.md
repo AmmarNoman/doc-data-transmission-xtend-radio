@@ -29,5 +29,5 @@ New software documentation
 
 ### xtcu Debugging and related configuration tutorials:
 
-[http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html)
+[http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb-xbee.html](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb-xbee.htmll)
 
