@@ -28,7 +28,6 @@ In theory, the ground stations of the PIX are compatible. Please select 57600 ba
 
 If you use a mobile OTG connection, the distance may be short because OTG power is not enough
 
-### xtcu debugging and related configuration tutorial:
-
-[http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html] (http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee. Html)
+[xtcu debugging and related configuration tutorial]
+(http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb-xbee.html)
 
