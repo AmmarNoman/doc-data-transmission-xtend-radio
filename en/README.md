@@ -25,7 +25,7 @@ The CUAV XTEND Radio module offers an unprecedented range of low-cost wireless d
 
 #### Network
 * Spread Spectrum Type: FHSS (Frequency Hopping Spread Spectrum)
-* Network Topology: DigiMesh®, End-to-End, Point-to-Point, Point-to-Multipoint and Repeater
+* Network Topology: DigiMesh®, Peer-to-peer networking, Point-to-Multipoint and Repeater
 * Error handling: Retry and confirm, multiple transfers
 * Filtering options: VID (vendor ID number), channel and addressing
 * Channel capacity: 10 hop sequences share 50 frequencies
