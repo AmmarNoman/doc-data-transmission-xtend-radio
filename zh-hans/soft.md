@@ -18,9 +18,7 @@ CUAV XTEND Radio内置的USB转TTL芯片为FT232FQ
 
 ### 软件下载
 
-新版X-CTU
-
-[https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu](https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu)
+[新版X-CTU](https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu)
 
 新版软件说明文档
 
