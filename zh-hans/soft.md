@@ -20,11 +20,8 @@ CUAV XTEND Radio内置的USB转TTL芯片为FT232FQ
 
 [新版X-CTU](https://www.digi.com/products/xbee-rf-solutions/xctu-software/xctu)
 
-新版软件说明文档
+[新版软件说明文档](https://www.digi.com/resources/documentation/digidocs/90001458-13/default.htm)
 
-[https://www.digi.com/resources/documentation/digidocs/90001458-13/default.htm](https://www.digi.com/resources/documentation/digidocs/90001458-13/default.htm)
-
-### xtcu调试及相关配置教程：
-
-[http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html)
+### 更多信息
+[xtcu调试及相关配置教程](http://doc.cuav.net/tutorial/copter/optional-hardware/radio/usb xbee.html)
 
